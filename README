@@ -2,6 +2,12 @@ st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+This branch is the result of merging other branches:
+
+- patched-gruvbox
+- patched-alpha
+- patched-scrollback
+- patched-font2
 
 Requirements
 ------------
